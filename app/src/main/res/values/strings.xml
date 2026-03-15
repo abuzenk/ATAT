@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">atat</string>
+    <string name="select_image">Pilih Gambar</string>
+    <string name="select_video">Pilih Video</string>
+    <string name="confirm">Pilih</string>
+    <string name="cancel">Batal</string>
+    <string name="no_media_selected">Belum ada media dipilih</string>
+    <string name="no_media_found">Tidak ada media ditemukan</string>
+    <string name="permission_required">Izin diperlukan untuk mengakses media</string>
+    <string name="permission_denied">Izin ditolak, tidak dapat mengakses media</string>
+    <string name="error_processing">Gagal memproses media</string>
+    <string name="media_selected">1 media dipilih</string>
+    <string name="gallery">Galeri</string>
+    <string name="videos">Video</string>
+    <string name="images">Gambar</string>
+    <string name="all_media">Semua Media</string>
+</resources>
