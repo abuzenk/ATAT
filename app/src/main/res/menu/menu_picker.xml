@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_filter_all"
+        android:title="Semua Media"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/action_filter_images"
+        android:title="Gambar"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/action_filter_videos"
+        android:title="Video"
+        app:showAsAction="never" />
+    
+</menu>
